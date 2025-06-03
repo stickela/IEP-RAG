@@ -3,6 +3,7 @@
 
 Throughout the development of this RAG-based IEP goal generator, several challenges were addressed. Below is a summary of each and how they were resolved.
 
+---
 
 ### Choosing the Right LLM
 
