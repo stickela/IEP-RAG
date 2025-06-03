@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit
+langchain
+chromadb
+sentence-transformers
+transformers
+torch
+
+# Hugging Face tools
+huggingface-hub
+
+# Text parsing
+beautifulsoup4
+aiohttp
+pdfplumber
+
+# Optional: Faster HTML parsing
+lxml
+
+# For compatibility with Chroma
+tqdm
+pydantic<2.0
+
+# Dev / debugging 
+ipykernel
+
+# Other
+subprocess
