@@ -57,5 +57,3 @@ The model sometimes returned only part of the response (e.g., only “Transition
 - Ended the prompt with a signal (`Response:`) to guide generation
 - Trimmed retrieved context length to avoid token overflow
 
----
-
